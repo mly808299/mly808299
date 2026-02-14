@@ -52,12 +52,17 @@ Focused on designing and understanding systems from low-level fundamentals to se
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mly808299&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mly808299&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" height="165"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mly808299&theme=tokyonight&hide_border=true&v=1"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/stats.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/repos-per-language.svg" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/most-commit-language.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/productive-time.svg" height="165"/>
 </p>
 
 ---
