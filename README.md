@@ -15,7 +15,7 @@ Cybersecurity • DevOps • Systems Engineering
 ## 🛡 About Me
 
 Computer Engineering student at **Shahid Beheshti University**  
-GPA: **19.1 / 20**  
+GPA: **18.54 / 20**  
 DevOps Team Member – Faculty of Computer Science  
 
 Focused on designing and understanding systems from low-level fundamentals to secure deployment pipelines.
@@ -67,9 +67,6 @@ Focused on designing and understanding systems from low-level fundamentals to se
 <p align="center">
   <img src="https://raw.githubusercontent.com/mly808299/mly808299/output/github-contribution-grid-snake-dark.svg?v=1" />
 </p>
-
-> اگر این بخش هنوز لود نمی‌شه، یعنی workflow ساختن snake هنوز اضافه/اجرا نشده.
-> پایین همین پیام، فایل `snake.yml` رو هم برات گذاشتم.
 
 ---
 
