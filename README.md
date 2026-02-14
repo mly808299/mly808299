@@ -49,21 +49,22 @@ Focused on designing and understanding systems from low-level fundamentals to se
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Self-hosted)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/stats.svg" height="165"/>
-  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/repos-per-language.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/main/profile-summary-card-output/midnight_purple/3-stats.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/most-commit-language.svg" height="165"/>
-  <img src="https://raw.githubusercontent.com/mly808299/mly808299/assets/productive-time.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" height="165"/>
 </p>
+
 
 ---
 
