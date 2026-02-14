@@ -12,13 +12,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: mly808299
-          THEME: tokyonight
+          AUTO_PUSH: false
 
       - name: Publish to assets branch
         uses: peaceiris/actions-gh-pages@v4
