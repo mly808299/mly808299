@@ -1,9 +1,9 @@
-name: Generate Profile Stats Cards
+name: Generate Profile Summary Cards (Self-hosted)
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "15 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate summary cards
+      - name: Generate cards (no auto push)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
