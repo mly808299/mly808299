@@ -1,81 +1,96 @@
-# Ali Mohammadi
+<h1 align="center">Ali Mohammadi</h1>
 
-Computer Engineering Student @ Shahid Beheshti University  
-DevOps Team Member | Cybersecurity & Systems Enthusiast  
+<p align="center">
+Cybersecurity • DevOps • Systems Engineering
+</p>
 
-Building secure systems, scalable backends, and infrastructure automation.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Secure+Systems;Infrastructure+%26+Automation;Backend+Engineering;Cybersecurity+Enthusiast" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🛡 About Me
 
-I am a Computer Engineering student with a strong academic record (GPA: 19.1/20) and hands-on experience in backend development, networking, and DevOps practices.
+Computer Engineering student at **Shahid Beheshti University**  
+GPA: **19.1 / 20**  
+DevOps Team Member – Faculty of Computer Science  
 
-My primary interests include:
+Focused on designing and understanding systems from low-level fundamentals to secure deployment pipelines.
 
-- Cybersecurity
+Primary Interests:
+- Cybersecurity & Secure Architecture
 - Networking & Infrastructure
 - Backend Systems
 - DevOps & Automation
-- Low-level & Systems Programming
-
-I focus on writing clean, modular code and understanding systems from fundamentals to deployment.
+- Systems Programming
 
 ---
 
-## 🛠 Technical Stack
+## ⚔️ Technical Arsenal
 
-**Languages:** C, C++, Java, Python, Bash  
-**Backend:** Django  
-**DevOps & Infrastructure:** Docker, Kubernetes, CI/CD, GitHub Actions  
-**Systems:** Linux (CLI, process & networking fundamentals)  
-**Networking:** Network Fundamentals (Network+ Certified)
+**Languages**  
+C • C++ • Java • Python • Bash  
 
----
+**Backend**  
+Django  
 
-## 💼 Experience
+**DevOps & Infrastructure**  
+Docker • Kubernetes • CI/CD • GitHub Actions  
 
-### DevOps Team Member  
-Faculty of Computer Science – Shahid Beheshti University (2024 – Present)
+**Systems**  
+Linux • Networking Fundamentals  
 
-- Contributed to infrastructure management and deployment workflows  
-- Worked with containerization and CI/CD pipelines  
-- Assisted in automation and reliability improvements  
+**Certifications**  
+Network+ Certified  
 
 ---
 
-## 📂 Selected Projects
+## 🚀 Selected Projects
 
 - 🔧 [Compiler Project](https://github.com/mly808299/compiler)  
-  Implementation of core compiler components and language processing concepts.
+  Language processing and compiler design fundamentals.
 
 - 🌐 [Django Blog Platform](https://github.com/mly808299/blog_site)  
-  Full-stack blog application with authentication and modular architecture.
+  Modular backend system with authentication and clean architecture.
 
 - 🎓 [Student Platform – Java & Flutter](https://github.com/mly808299/AMRock_Mafi)  
-  Backend implemented in Java, frontend built with Flutter.
+  Backend in Java, frontend in Flutter, OOP-driven design.
 
 - 📡 [V2Ray Infrastructure Tooling](https://github.com/SBU-DCAI/v2ray-vpn)  
-  Containerized VPN configuration and deployment setup.
+  Containerized VPN deployment setup.
 
-- 🤖 [vLLM Optimization Experiments](https://github.com/eagertowork/vLLM_Optimization)  
-  Performance experimentation and LLM optimization workflows.
+- 🤖 [vLLM Optimization](https://github.com/eagertowork/vLLM_Optimization)  
+  LLM performance experimentation and infrastructure testing.
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Analytics
 
-- Network+ Certification  
-- NEWBIES 2024 Participation Certificate  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mly808299&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mly808299&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mly808299&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mly808299/mly808299/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🌍 Connect
 
 📧 ali.mohammadi121wk@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-mohammadi-bb2872330/)  
-💻 [GitHub](https://github.com/mly808299)
+🔗 LinkedIn: https://www.linkedin.com/in/ali-mohammadi-bb2872330/
 
 ---
 
-Engineering mindset. Security focus. Continuous improvement.
+> Engineering discipline. Security mindset. Relentless improvement.
