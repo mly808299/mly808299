@@ -1,99 +1,81 @@
-# Hi, I'm Ali Mohammadi 👋
+# Ali Mohammadi
 
-🎓 BSc Computer Engineering Student @ Shahid Beheshti University  
-🔐 Interested in Cybersecurity & Networking  
-⚙️ DevOps Team Member – Faculty of Computer Science  
+Computer Engineering Student @ Shahid Beheshti University  
+DevOps Team Member | Cybersecurity & Systems Enthusiast  
+
+Building secure systems, scalable backends, and infrastructure automation.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a motivated Computer Engineering student with a strong academic background (GPA: 19.1/20) and practical experience in backend development, networking, and DevOps practices.
+I am a Computer Engineering student with a strong academic record (GPA: 19.1/20) and hands-on experience in backend development, networking, and DevOps practices.
 
-I am particularly interested in:
+My primary interests include:
+
 - Cybersecurity
 - Networking & Infrastructure
-- Backend Development
-- DevOps & System Automation
+- Backend Systems
+- DevOps & Automation
+- Low-level & Systems Programming
 
-I enjoy building real-world projects, working in teams, and continuously improving my technical depth in security and systems engineering.
+I focus on writing clean, modular code and understanding systems from fundamentals to deployment.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Stack
 
-**Programming & Scripting**
-- C / C++
-- Java
-- Python
-- Bash
-
-**Web Development**
-- Django
-- HTML / CSS / JavaScript
-
-**DevOps & Infrastructure**
-- Docker
-- Kubernetes
-- CI/CD Concepts
-- Linux (Fundamentals)
-- Git & GitHub
-
-**Networking**
-- Network Fundamentals (Network+ Certified)
+**Languages:** C, C++, Java, Python, Bash  
+**Backend:** Django  
+**DevOps & Infrastructure:** Docker, Kubernetes, CI/CD, GitHub Actions  
+**Systems:** Linux (CLI, process & networking fundamentals)  
+**Networking:** Network Fundamentals (Network+ Certified)
 
 ---
 
 ## 💼 Experience
 
-### 🚀 DevOps Team Member  
+### DevOps Team Member  
 Faculty of Computer Science – Shahid Beheshti University (2024 – Present)
 
-- Collaborating on infrastructure management and deployment tasks  
-- Working with CI/CD workflows and containerization  
-- Supporting automation and system reliability improvements  
-
-### 🌐 Django Projects (Self-initiated)
-
-- Designed and developed multiple web applications using Django  
-- Implemented front-end interfaces with HTML, CSS, JavaScript  
-- Managed version control and deployment using GitHub  
-- Focused on clean architecture and modular design  
-
-### 🧑‍🎓 Student Collaboration Platform
-
-Advanced Programming Course – 2024  
-
-- Backend developed using Java  
-- Frontend designed with Flutter  
-- Implemented OOP principles and modern software design patterns  
+- Contributed to infrastructure management and deployment workflows  
+- Worked with containerization and CI/CD pipelines  
+- Assisted in automation and reliability improvements  
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Selected Projects
 
-- 🔧 **Compiler Project** – Implementation of core compiler components  
-- 🌐 **Django Blog Platform** – Full-stack blog application  
-- 📡 **V2Ray VPN Infrastructure Tooling**  
-- 🤖 **vLLM Optimization Project** – LLM performance experimentation  
-- 🎓 **Student Platform (Java + Flutter)**  
+- 🔧 [Compiler Project](https://github.com/mly808299/compiler)  
+  Implementation of core compiler components and language processing concepts.
+
+- 🌐 [Django Blog Platform](https://github.com/mly808299/blog_site)  
+  Full-stack blog application with authentication and modular architecture.
+
+- 🎓 [Student Platform – Java & Flutter](https://github.com/mly808299/AMRock_Mafi)  
+  Backend implemented in Java, frontend built with Flutter.
+
+- 📡 [V2Ray Infrastructure Tooling](https://github.com/SBU-DCAI/v2ray-vpn)  
+  Containerized VPN configuration and deployment setup.
+
+- 🤖 [vLLM Optimization Experiments](https://github.com/eagertowork/vLLM_Optimization)  
+  Performance experimentation and LLM optimization workflows.
 
 ---
 
 ## 📜 Certifications
 
 - Network+ Certification  
-- Newbies 2024 Participation Certificate  
+- NEWBIES 2024 Participation Certificate  
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect
 
 📧 ali.mohammadi121wk@gmail.com  
-📱 09397749455  
 🔗 [LinkedIn](https://www.linkedin.com/in/ali-mohammadi-bb2872330/)  
 💻 [GitHub](https://github.com/mly808299)
 
 ---
 
-⭐ Always learning. Always building.
+Engineering mindset. Security focus. Continuous improvement.
